@@ -15,5 +15,5 @@ let dinheiro = true
 if (cartaoCredito || dinheiro) {
     console.log('Pode fazer a compra')
 } else {
-    console.log('')
+    console.log('Não pode fazer a compra')
 }
