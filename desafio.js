@@ -3,8 +3,8 @@ let nome = "Erick";
 let serie = "2 A";
 let nascimento = 2010;
 let cpf = "122.155.134-14";
-let variavel = "soma"; 
-let variavel = "multiplicação"
+let soma = "idade"; 
+let multiplicação = "nascimento"
 
 console.log("Nome:", nome);
 console.log("Idade:", idade);
