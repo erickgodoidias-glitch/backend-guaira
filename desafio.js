@@ -11,4 +11,5 @@ console.log("Idade:", idade);
 console.log("Série:", serie);
 console.log("Ano de nascimento:", nascimento);
 console.log("CPF:", cpf);
-console.log(`Nome: ${nome}, Idade: ${idade}, Série: ${serie}, Ano de nascimento: ${nascimento}, CPF: ${cpf}. você concluiu o cadastro ${soma} e ${multiplicação}`);
+console.log("soma", soma)
+console.log(`Nome: ${nome}, Idade: ${idade}, Série: ${serie}, Ano de nascimento: ${nascimento}, CPF: ${cpf}. você concluiu o cadastro. ${soma}`);
