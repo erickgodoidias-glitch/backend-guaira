@@ -1,8 +1,10 @@
-let idade = 15;
+let idade = 16;
 let nome = "Erick";
-let serie = "1 A";
+let serie = "2 A";
 let nascimento = 2010;
 let cpf = "122.155.134-14";
+let variavel = "soma"; 
+let variavel = "multiplique"
 
 console.log("Nome:", nome);
 console.log("Idade:", idade);
