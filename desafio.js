@@ -4,7 +4,7 @@ let serie = "2 A";
 let nascimento = 2010;
 let cpf = "122.155.134-14";
 let variavel = "soma"; 
-let variavel = "multiplique"
+let variavel = "multiplicação"
 
 console.log("Nome:", nome);
 console.log("Idade:", idade);
