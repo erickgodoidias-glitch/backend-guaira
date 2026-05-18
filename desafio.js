@@ -1,16 +1,19 @@
-let idade = 16;
 let nome = "Erick";
-let serie = "2 ";
+let idade = 16;
 let nascimento = 2010;
 let cpf = "122.155.134-14";
-let soma = "nota"; 
-let nota = "6,7", 
+let nota1 = 6.7;
+let nota2 = 8.0;
+let primeiroTri = nota1 + nota2;
+let segundoTri = nota1 * nota2;
+
 
 console.log("Nome:", nome);
-console.log("Idade:", idade);
-console.log("Série:", serie);
-console.log("Ano de nascimento:", nascimento);
+console.log("idade:", idade);
+console.log("nascimento:", nascimento);
 console.log("CPF:", cpf);
-console.log("soma", soma)
-comsole.log()
-console.log(`Nome: ${nome}, Idade: ${idade}, Série: ${serie}, Ano de nascimento: ${nascimento}, CPF: ${cpf}. você concluiu o cadastro. ${soma} + ${serie} ° ${nascimento} = 36,180 `);
+console.log("nota1", nota1);
+console.log("nota2", nota2);
+console.log(primeiroTri)
+console.log(segundoTri)
+//console.log(`Nome: ${nome}, Idade: ${idade}, Ano de nascimento: ${nascimento}, CPF: ${cpf}. você concluiu o cadastro. `);
