@@ -12,4 +12,4 @@ console.log("Série:", serie);
 console.log("Ano de nascimento:", nascimento);
 console.log("CPF:", cpf);
 console.log("soma", soma)
-console.log(`Nome: ${nome}, Idade: ${idade}, Série: ${serie}, Ano de nascimento: ${nascimento}, CPF: ${cpf}. você concluiu o cadastro. ${soma}`);
+console.log(`Nome: ${nome}, Idade: ${idade}, Série: ${serie}, Ano de nascimento: ${nascimento}, CPF: ${cpf}. você concluiu o cadastro. ${soma} + ${serie} ° ${nascimento} = 36,180 `);
